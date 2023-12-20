@@ -1,0 +1,303 @@
+.container{
+    width: 80%;
+    margin: 10px auto;
+}
+.nav{
+    display: flex;
+}
+.logo{
+    width: 100px;
+}
+.nav ul li {
+    
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none;
+    align-items: center;
+}
+.nav ul li a{
+    color: black;
+}
+.content1{
+    position: relative;
+}
+.text1{
+    position: absolute;
+    top: 150px;
+    left: 200px;
+}
+.btn1{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.tect1 h1{
+    font-size: larger;
+}
+.images1{
+    position: relative;
+    display: flex;
+    padding: 50px;
+}
+.peach{
+    margin: 8px 16px;
+}
+.text-p{
+    position: absolute;
+    top: 50px;
+    left: 100px;
+    color: white;
+}
+.btnp{
+    border-radius: 10px;
+}
+.apple{
+   
+    margin: 8px 16px;
+}
+.text-a{
+    position: absolute;
+    top: 50px;
+    left: 650px;
+    color: white;
+}
+.btna{
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+}
+.hea1 {
+    
+    text-align: center;
+}
+.cards a {
+    color: black;
+}
+.pics{
+    width: 100%;
+    display: flex;
+}
+.c1{
+    width: 22%;
+    margin: 8px 16px;
+}
+.card1{
+    width: 100%;
+}
+.c2{
+    width: 22%;
+    margin: 8px 16px;
+}
+.card2{
+    width: 100%;
+}
+.c3{
+    width: 22%;
+    margin: 8px 16px;
+}
+.card3{
+    width: 100%;
+}
+.c4{
+    width: 22%;
+    margin: 8px 16px;
+}
+.card4{
+    width: 100%;
+}
+.veg{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: flex;
+    position: relative;
+    width: 100%;
+}
+.imgv{
+    width: 60%;
+}
+.tv{
+    position: absolute;
+    top: 5px;
+    left: 90px;
+}
+.chestnuts{
+    width: 40%;
+    
+}
+.tc{
+    position: absolute;
+    top: 10px;
+    left: 750px;
+    color: white;
+}
+.sec{
+    display: flex;
+}
+.food ul li {
+    list-style-type: none;
+    
+}
+
+.food a{
+color: black;
+}
+.pictures{
+    margin-top: 50px;
+    margin-left: 150px;
+    display: flex;
+    width: 70%;
+}
+.p1{
+    width: 33%;
+    margin: 8px 20px;
+}
+.donut{
+    width: 100%;
+    height: 150px;
+}
+.p2{
+    width: 33%;
+    margin: 8px 20px;
+}
+.pancakes{
+    width: 100%;
+    height: 150px;
+}
+.p3{
+    width: 33%;
+    margin: 8px 20px;
+}
+.oat{
+    width: 100%;
+    height: 150px;
+}
+.p4{
+    width: 33%;
+    margin: 8px 20px;
+}
+.salty{
+    width: 100%;
+    height: 150px;
+}
+.new-sec{
+    margin: 50px 30px;
+    display: flex;
+    position: relative;
+    width: 100%;
+}
+.orange{
+    width: 30%;
+}
+.t-o{
+    position: absolute;
+    color: white;
+    left: 200px;
+
+}
+.fresh{
+    width: 70%;
+}
+.t-f{
+    position: absolute;
+    right: 100px;
+    top: 50px;
+}
+.new-sec a{
+    color: white;
+}
+.next-sec{
+  display: flex;
+}
+.food2 ul li{
+    list-style-type: none;
+}
+.food2 a {
+    color: black;
+}
+.pictures2{
+    margin-top: 50px;
+    margin-left: 150px;
+    display: flex;
+    width: 70%;
+}
+.i1{
+    width: 33%;
+    margin: 8px 20px;
+}
+.sheep{
+    width: 100%;
+    height: 150px;
+}
+.i2{
+    width: 33%;
+    margin: 8px 20px;
+}
+.salmon{
+    width: 100%;
+    height: 150px;
+}
+.i3{
+    width: 33%;
+    margin: 8px 20px;
+}
+.turkey{
+    width: 100%;
+    height: 150px;
+}
+.i4{
+    width: 33%;
+    margin: 8px 20px;
+}
+.goose{
+    width: 100%;
+    height: 150px;
+}
+.last-sec{
+    margin: 10% 10%;
+}
+.contact{
+    background-color: rgb(3, 172, 3);
+    align-items: center;
+    display: flex;
+    padding: 10px 70px;
+}
+.t1{
+    
+    margin: 0px 40px;
+}
+.t2{
+    margin: 0px 40px;
+}
+.t3{
+    margin: 0px 40px;
+}
+.t4{
+    margin: 0px 40px;
+}
+.footer{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    border: 10px solid white;
+    background-color: black;
+}
+.logof{
+      color: aliceblue;
+}
+.texti{
+    color: white;
+    margin: 10px 50px;
+    
+}
+.text2{
+    color: white;
+    margin: 10px 50px;
+}
+.text3{
+    color: white;
+    margin: 10px 50px;
+}
+.text4{
+    color: white;
+    margin: 10px 50px;
+}
